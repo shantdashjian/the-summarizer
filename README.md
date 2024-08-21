@@ -38,6 +38,7 @@ An app to summarize text, powered with Claude AI.
 ## Challenges and Learning Points:
 1. I practiced deploying AI-powered applications to Cloudflare.
 2. I limited the CORS origin to the web client for security.
+3. I showed different images depending on the screen width using the picture element.
    
 <hr>
 
